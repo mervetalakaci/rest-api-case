@@ -11,7 +11,7 @@
 * [dotenv](https://www.npmjs.com/package/dotenv)
             
  
- ## 1- Clone Repistory
+ ## 1- Using Git Clone Repistory
  ### Build Setup
  
   ```sh
@@ -44,7 +44,7 @@ Request Body(raw)
 
 ```
 
-## 2- Heroku
+## 2- Using Heroku
 
 ### POST https://ancient-island-63657.herokuapp.com/api/record
 Request Body(raw)

@@ -11,7 +11,7 @@
 * [dotenv](https://www.npmjs.com/package/dotenv)
             
  
- ## 1- Using Git Clone Repistory
+ ## 1- Using Git Clone Repository
  ### Build Setup
  
   ```sh

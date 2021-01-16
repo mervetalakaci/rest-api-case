@@ -24,7 +24,7 @@
 
 ```
 
-### POST /api/record
+#### POST /api/record
 Request Body(raw)
 
  ```sh
@@ -37,7 +37,7 @@ Request Body(raw)
 
 ```
 
-### Tests
+### Test
 
 ```sh
 > npm test
@@ -46,7 +46,7 @@ Request Body(raw)
 
 ## 2- Using Heroku
 
-### POST https://ancient-island-63657.herokuapp.com/api/record
+#### POST https://ancient-island-63657.herokuapp.com/api/record
 Request Body(raw)
 
  ```sh
